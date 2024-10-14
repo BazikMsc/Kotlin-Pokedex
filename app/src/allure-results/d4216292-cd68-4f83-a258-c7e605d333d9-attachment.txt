@@ -1,0 +1,37 @@
+--------- beginning of main
+10-14 23:26:54.779  2620  2641 I KASPRESSO: ___________________________________________________________________________
+10-14 23:26:54.783  2620  2641 I KASPRESSO: Logcat buffer may be dumped from 10-14 23:26:54.779
+10-14 23:26:54.812  2620  2641 I KASPRESSO: Starting video recording: Video_MovesScreenTest.mp4
+10-14 23:26:54.812  2620  2641 I KASPRESSO: Waiting for 3000 ms
+10-14 23:26:54.813  2620  3807 D KASPRESSO: Display resolution: 1080x2337; supported codec resolution: 2048x2048
+10-14 23:26:54.813  2620  3807 D KASPRESSO: Starting video recording with resolution 1080x2048
+10-14 23:26:57.814  2620  2641 I KASPRESSO: ---------------------------------------------------------------------------
+10-14 23:26:57.814  2620  2641 I KASPRESSO: BEFORE TEST SECTION
+10-14 23:26:57.814  2620  2641 I KASPRESSO: ---------------------------------------------------------------------------
+10-14 23:26:57.814  2620  2641 I KASPRESSO: ---------------------------------------------------------------------------
+10-14 23:26:57.814  2620  2641 I KASPRESSO: TEST SECTION
+10-14 23:26:57.814  2620  2641 I KASPRESSO: ---------------------------------------------------------------------------
+10-14 23:26:57.824  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Action=CLICK(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QMoves\E']
+10-14 23:26:57.849  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [TEXT='\QPokedex\E']
+10-14 23:26:57.849  2620  2641 I KASPRESSO: ___________________________________________________________________________
+10-14 23:26:57.849  2620  2641 I KASPRESSO: TEST STEP: "1. Check menu elements content" in MovesScreenTest
+10-14 23:26:58.140  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QBulbasaur\E']
+10-14 23:26:58.658  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QIvysaur\E']
+10-14 23:26:58.660  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QVenusaur\E']
+10-14 23:26:58.662  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QCharmander\E']
+10-14 23:26:58.664  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QCharmeleon\E']
+10-14 23:26:58.666  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QCharizard\E']
+10-14 23:26:58.668  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QSquirtle\E']
+10-14 23:26:58.670  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QWartortle\E']
+10-14 23:26:58.672  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QBlastoise\E']
+10-14 23:26:58.673  2620  2641 I KASPRESSO: The object: Object type=UiTextView. The operation: Check=IS_DISPLAYED(description={null}. Additional info: the object was founded by selector=BySelector [RES='\Qdev.marcosfarias.pokedex:id/textViewName\E', TEXT='\QCaterpie\E']
+10-14 23:26:58.673  2620  2641 I KASPRESSO: TEST STEP: "1. Check menu elements content" in MovesScreenTest SUCCEED. It took 0 minutes, 0 seconds and 824 millis. 
+10-14 23:26:58.673  2620  2641 I KASPRESSO: ___________________________________________________________________________
+10-14 23:26:58.786  2620  2641 I KASPRESSO: Screenshot saved to /data/user/0/dev.marcosfarias.pokedex/files/screenshots/dev.marcosfarias.pokedex.MovesScreenTest/checkingMovesScreenTest/MovesScreenTest_step_1.png
+10-14 23:26:58.786  2620  2641 I KASPRESSO: ---------------------------------------------------------------------------
+10-14 23:26:58.786  2620  2641 I KASPRESSO: AFTER TEST SECTION
+10-14 23:26:58.786  2620  2641 I KASPRESSO: ---------------------------------------------------------------------------
+10-14 23:26:58.786  2620  2641 I KASPRESSO: ---------------------------------------------------------------------------
+10-14 23:26:58.786  2620  2641 I KASPRESSO: TEST PASSED
+10-14 23:26:58.786  2620  2641 I KASPRESSO: ---------------------------------------------------------------------------
+10-14 23:26:58.791  2620  2641 I KASPRESSO: Dump logcat buffer to /data/user/0/dev.marcosfarias.pokedex/files/logcat/dev.marcosfarias.pokedex.MovesScreenTest/checkingMovesScreenTest/TestLogcat.txt: logcat -b default -d -t "10-14 23:26:54.779" -s "KASPRESSO","KASPRESSO_TEST"
