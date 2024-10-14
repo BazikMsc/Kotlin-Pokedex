@@ -1,0 +1,105 @@
+{
+    "name": "checkingMainScreenTest",
+    "start": 1728937454416,
+    "stop": 1728937465902,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Check menu elements visibility",
+            "start": 1728937462923,
+            "stop": 1728937463045,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+                {
+                    "source": "7c648a6b-c68a-49b1-a01f-d7353c5e4621-attachment.png",
+                    "name": "MainScreenTest_step_1.png",
+                    "type": "image/png"
+                }
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Check news elements visibility",
+            "start": 1728937463046,
+            "stop": 1728937463137,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+                {
+                    "source": "00971216-127f-486b-b1ab-0e6b3b396fb7-attachment.png",
+                    "name": "MainScreenTest_step_2.png",
+                    "type": "image/png"
+                }
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "9a213de3-688e-44ba-8253-df7abf5dbd06-attachment.txt",
+            "name": "TestLogcat.txt",
+            "type": "text/plain"
+        },
+        {
+            "source": "75b2a1c1-6c31-4962-9b77-c1890689fca1-attachment.mp4",
+            "name": "Video_MainScreenTest.mp4",
+            "type": "video/mp4"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "3e5f696a-e550-44a8-b2b8-bef778a85e92",
+    "historyId": "559bea15ffcb8ea4649b84c46a9069ed",
+    "fullName": "dev.marcosfarias.pokedex.MainScreenTest.checkingMainScreenTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "dev.marcosfarias.pokedex"
+        },
+        {
+            "name": "testClass",
+            "value": "dev.marcosfarias.pokedex.MainScreenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkingMainScreenTest"
+        },
+        {
+            "name": "suite",
+            "value": "dev.marcosfarias.pokedex.MainScreenTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: com.kaspersky.kaspresso.runner.KaspressoRunner(45)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

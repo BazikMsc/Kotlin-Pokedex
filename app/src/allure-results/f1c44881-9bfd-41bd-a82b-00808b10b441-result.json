@@ -1,0 +1,84 @@
+{
+    "name": "checkingMovesScreenTest",
+    "start": 1728937614239,
+    "stop": 1728937621534,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Check menu elements content",
+            "start": 1728937617849,
+            "stop": 1728937618786,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+                {
+                    "source": "23c983ca-7967-407c-9bc8-2f8869b64d34-attachment.png",
+                    "name": "MovesScreenTest_step_1.png",
+                    "type": "image/png"
+                }
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "d4216292-cd68-4f83-a258-c7e605d333d9-attachment.txt",
+            "name": "TestLogcat.txt",
+            "type": "text/plain"
+        },
+        {
+            "source": "465ca5b3-c884-4c2a-84ee-409fb815b430-attachment.mp4",
+            "name": "Video_MovesScreenTest.mp4",
+            "type": "video/mp4"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "f1c44881-9bfd-41bd-a82b-00808b10b441",
+    "historyId": "720944f2a8e268edaa9f0020d72c5b08",
+    "fullName": "dev.marcosfarias.pokedex.MovesScreenTest.checkingMovesScreenTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "dev.marcosfarias.pokedex"
+        },
+        {
+            "name": "testClass",
+            "value": "dev.marcosfarias.pokedex.MovesScreenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkingMovesScreenTest"
+        },
+        {
+            "name": "suite",
+            "value": "dev.marcosfarias.pokedex.MovesScreenTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: com.kaspersky.kaspresso.runner.KaspressoRunner(45)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
